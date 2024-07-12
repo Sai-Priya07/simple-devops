@@ -1,3 +1,3 @@
 #!/bin/bash
 
-x=a+b
+x=1+2
